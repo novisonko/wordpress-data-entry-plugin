@@ -5,7 +5,6 @@
 *Description: A data entry plugin to record and display data
 *Version: 0.0.1
 *Author: Novi Sonko <novisonko@sonkotek.com>
-*Author URI: https://novisonko.com
 *@package Sonkotek\DE
 *@copyright Copyright (c) 2017, Sonkotek Systems
 */
